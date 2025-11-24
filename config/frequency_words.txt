@@ -27,7 +27,9 @@ bytedance
 
 微软
 Microsoft
+windows
 !call-center-ai
+@30
 
 英伟达
 NVIDIA
